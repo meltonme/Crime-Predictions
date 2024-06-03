@@ -27,7 +27,9 @@ Our models work to predict:
 ### Data Cleaning Methods
 - Either used the zipfile reader library or connected to PostGreSQL to extract the data.
    - To install the zipfile library in Terminal
-     ``` pip install zipfile36 ```
+     ```
+     pip install zipfile36
+     ```
    - In Jupyter Notebook 
      ```
      import zipfile
