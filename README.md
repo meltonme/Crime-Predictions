@@ -37,7 +37,7 @@ Our models work to predict:
      zf =  zipfile.ZipFile('<<add relative path to zip file here>>')
 
      #Have Pandas read the .csv file in the zip file
-     df = pd.read_csv(zf.open('<<file_name.csv'))```
+     df = pd.read_csv(zf.open('<<file_name.csv>>'))```
 - Iterated through the DataFrame to locate the null values and drop them from the data set.
 - Dropped unnecessary columns.
 - Mapped subcategories in the “CLEARANCE STATUS” column.
