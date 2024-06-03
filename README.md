@@ -25,7 +25,7 @@ Our models work to predict:
 - City of Charlotte Data Portal: Houses data for CMPD and other city/county agencies
 
 ### Data Cleaning Methods
-- Either used the zipfile reader library or connect to PostGreSQL to extract the data.
+- Either used the zipfile reader library or connected to PostGreSQL to extract the data.
    - To install the zipfile library in Terminal
      ``` pip install zipfile36 ```
    - In Jupyter Notebook 
