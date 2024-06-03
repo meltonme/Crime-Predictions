@@ -11,9 +11,9 @@
   - Tennessee
   - Illinois
   - New York
-Our models work to predict:
-- Type of crime
-- Location/Place Description of the crime
+- Our models work to predict:
+  - Type of crime
+  - Location/Place Description of the crime
 
 ### Technologies Used 
 - Postgre SQL: We created a connection to the PostgreSQL database to extract the data from
